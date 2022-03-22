@@ -7,6 +7,7 @@ vehicleTrackingSystem/templates/map2.html on line 86, put your Google Maps Api K
 Visual Studio Code ide is recommended to run
 
 
+
 Screenshots
 
 ![Screenshot (360)](https://user-images.githubusercontent.com/61064869/159453301-539f6837-83f2-41ab-80ab-a40ecf86d59b.png)
