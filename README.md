@@ -1,11 +1,20 @@
+## Vehicle Tracking System
+
 Written with Python-Flask
 
 Csv file imported into MongoDb, MySQL used for user's data
 
-vehicleTrackingSystem/templates/map2.html on line 86, put your Google Maps Api Key instead of "YOUR_API_KEY"
+vehicleTrackingSystem/templates/map2.html on line 86;
+
+```java
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&v=weekly&channel=2" async defer></script>
+```
+
+put your Google Maps API Key instead of "YOUR_API_KEY"
 
 Visual Studio Code ide is recommended to run
 
+### Screenshots
 
 ![Screenshot (360)](https://user-images.githubusercontent.com/61064869/159453301-539f6837-83f2-41ab-80ab-a40ecf86d59b.png)
 ![Screenshot (361)](https://user-images.githubusercontent.com/61064869/159453317-9b7ad00c-2661-49d9-bfb6-c73128f02b6d.png)
