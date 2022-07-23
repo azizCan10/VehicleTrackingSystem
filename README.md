@@ -6,7 +6,7 @@ Csv file imported into MongoDb, MySQL used for user's data
 
 vehicleTrackingSystem/templates/map2.html on line 86;
 
-```java
+```html
 <script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap&v=weekly&channel=2" async defer></script>
 ```
 
